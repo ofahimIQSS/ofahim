@@ -1,8 +1,0 @@
-#metadataBlock	name	dataverseAlias	displayName	blockURI												
-	nested_compound_test2		Nested Compound Test 2													
-#datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
-	person2	Person	Person		none	0		FALSE	FALSE	TRUE	FALSE	TRUE	FALSE		nested_compound_test2	
-	identifier2	Identifier	Identifier, e.g. ORCID		none	1		FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	person2	nested_compound_test2	
-	identifier_type2	Identifier type	Identifier type		text	2		FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	identifier2	nested_compound_test2	
-	identifier_text2	Identifier text	Identifier text		text	3		FALSE	FALSE	FALSE	FALSE	TRUE	FALSE	identifier2	nested_compound_test2	
-#controlledVocabulary	DatasetField	Value	identifier	displayOrder												

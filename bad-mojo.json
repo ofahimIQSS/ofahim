@@ -1,0 +1,1207 @@
+{
+  "id": 83684,
+  "identifier": "FK2/KBBBCF",
+  "persistentUrl": "https://doi.org/10.70122/FK2/KBBBCF",
+  "protocol": "doi",
+  "authority": "10.70122",
+  "separator": "/",
+  "publisher": "Dataverse Internal",
+  "publicationDate": "2021-07-23",
+  "storageIdentifier": "file1://10.70122/FK2/KBBBCF",
+  "datasetType": "dataset",
+  "datasetVersion": {
+    "id": 6324,
+    "datasetId": 83684,
+    "datasetPersistentId": "doi:10.70122/FK2/KBBBCF",
+    "storageIdentifier": "file1://10.70122/FK2/KBBBCF",
+    "versionNumber": 1,
+    "versionMinorNumber": 0,
+    "versionState": "RELEASED",
+    "latestVersionPublishingState": "RELEASED",
+    "lastUpdateTime": "2021-07-23T14:21:56Z",
+    "releaseTime": "2021-07-23T14:21:56Z",
+    "createTime": "2021-07-23T14:12:33Z",
+    "publicationDate": "2021-07-23",
+    "citationDate": "2021-07-23",
+    "license": {
+      "name": "CC0 1.0",
+      "uri": "http://creativecommons.org/publicdomain/zero/1.0",
+      "iconUri": "https://licensebuttons.net/p/zero/1.0/88x31.png"
+    },
+    "fileAccessRequest": false,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "name": "citation",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "subtitle",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "alternativeTitle",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "otherId",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "otherIdAgency": {
+                  "typeName": "otherIdAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "otherIdValue": {
+                  "typeName": "otherIdValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "otherIdAgency": {
+                  "typeName": "otherIdAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "otherIdValue": {
+                  "typeName": "otherIdValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "kc072321, kc072321"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "authorAffiliation": {
+                  "typeName": "authorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "authorIdentifier": {
+                  "typeName": "authorIdentifier",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "datasetContact",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "kc072321, kc072321"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "kc072321@mailinator.com"
+                }
+              },
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "kc072321@mailinator.com"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "dsDescription",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Agricultural Sciences"
+            ]
+          },
+          {
+            "typeName": "keyword",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "keywordValue": {
+                  "typeName": "keywordValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "keywordVocabulary": {
+                  "typeName": "keywordVocabulary",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "topicClassification",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "topicClassValue": {
+                  "typeName": "topicClassValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "topicClassVocab": {
+                  "typeName": "topicClassVocab",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "topicClassValue": {
+                  "typeName": "topicClassValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "topicClassVocab": {
+                  "typeName": "topicClassVocab",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "publication",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "publicationIDNumber": {
+                  "typeName": "publicationIDNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "publicationCitation": {
+                  "typeName": "publicationCitation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "publicationIDNumber": {
+                  "typeName": "publicationIDNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "notesText",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "producer",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "producerName": {
+                  "typeName": "producerName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "producerAffiliation": {
+                  "typeName": "producerAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "producerAbbreviation": {
+                  "typeName": "producerAbbreviation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "producerName": {
+                  "typeName": "producerName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "producerAffiliation": {
+                  "typeName": "producerAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "producerAbbreviation": {
+                  "typeName": "producerAbbreviation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "productionPlace",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "contributor",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "contributorName": {
+                  "typeName": "contributorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "contributorName": {
+                  "typeName": "contributorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "grantNumber",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "grantNumberAgency": {
+                  "typeName": "grantNumberAgency",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "grantNumberValue": {
+                  "typeName": "grantNumberValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "distributor",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "distributorName": {
+                  "typeName": "distributorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "distributorAffiliation": {
+                  "typeName": "distributorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "distributorAbbreviation": {
+                  "typeName": "distributorAbbreviation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "distributorName": {
+                  "typeName": "distributorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "distributorAffiliation": {
+                  "typeName": "distributorAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "distributorAbbreviation": {
+                  "typeName": "distributorAbbreviation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "depositor",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "dateOfDeposit",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "2021-07-23"
+          },
+          {
+            "typeName": "kindOfData",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "series",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "seriesName": {
+                  "typeName": "seriesName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "seriesInformation": {
+                  "typeName": "seriesInformation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "software",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "softwareName": {
+                  "typeName": "softwareName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "softwareVersion": {
+                  "typeName": "softwareVersion",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "softwareName": {
+                  "typeName": "softwareName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "softwareVersion": {
+                  "typeName": "softwareVersion",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "relatedMaterial",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "relatedDatasets",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "otherReferences",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "dataSources",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "originOfSources",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "characteristicOfSources",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "accessToSources",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          }
+        ]
+      },
+      "geospatial": {
+        "displayName": "Geospatial Metadata",
+        "name": "geospatial",
+        "fields": [
+          {
+            "typeName": "geographicCoverage",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "state": {
+                  "typeName": "state",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "city": {
+                  "typeName": "city",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "otherGeographicCoverage": {
+                  "typeName": "otherGeographicCoverage",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "state": {
+                  "typeName": "state",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "city": {
+                  "typeName": "city",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "otherGeographicCoverage": {
+                  "typeName": "otherGeographicCoverage",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "geographicUnit",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          }
+        ]
+      },
+      "socialscience": {
+        "displayName": "Social Science and Humanities Metadata",
+        "name": "socialscience",
+        "fields": [
+          {
+            "typeName": "unitOfAnalysis",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "universe",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "timeMethod",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "dataCollector",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "collectorTraining",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "frequencyOfDataCollection",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "samplingProcedure",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "targetSampleSize",
+            "multiple": false,
+            "typeClass": "compound",
+            "value": {
+              "targetSampleSizeFormula": {
+                "typeName": "targetSampleSizeFormula",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "<script>alert(1)</script>"
+              }
+            }
+          },
+          {
+            "typeName": "deviationsFromSampleDesign",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "collectionMode",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "researchInstrument",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "dataCollectionSituation",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "actionsToMinimizeLoss",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "controlOperations",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "weighting",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "cleaningOperations",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "datasetLevelErrorNotes",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "responseRate",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "samplingErrorEstimates",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "otherDataAppraisal",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "socialScienceNotes",
+            "multiple": false,
+            "typeClass": "compound",
+            "value": {
+              "socialScienceNotesType": {
+                "typeName": "socialScienceNotesType",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "<script>alert(1)</script>"
+              },
+              "socialScienceNotesSubject": {
+                "typeName": "socialScienceNotesSubject",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "<script>alert(1)</script>"
+              },
+              "socialScienceNotesText": {
+                "typeName": "socialScienceNotesText",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "<script>alert(1)</script>"
+              }
+            }
+          }
+        ]
+      },
+      "astrophysics": {
+        "displayName": "Astronomy and Astrophysics Metadata",
+        "name": "astrophysics",
+        "fields": [
+          {
+            "typeName": "astroObject",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "resolution.Spatial",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "resolution.Spectral",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "resolution.Temporal",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "coverage.Spatial",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "coverage.Polarization",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "redshiftType",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          }
+        ]
+      },
+      "biomedical": {
+        "displayName": "Life Sciences Metadata",
+        "name": "biomedical",
+        "fields": [
+          {
+            "typeName": "studyOtherDesignType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyOtherFactorType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyAssayOtherOrganism",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyAssayOtherMeasurmentType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyAssayOtherTechnologyType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyAssayOtherPlatform",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "studyAssayCellType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          }
+        ]
+      },
+      "journal": {
+        "displayName": "Journal Metadata",
+        "name": "journal",
+        "fields": [
+          {
+            "typeName": "journalVolumeIssue",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "journalVolume": {
+                  "typeName": "journalVolume",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "journalIssue": {
+                  "typeName": "journalIssue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "journalVolume": {
+                  "typeName": "journalVolume",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                },
+                "journalIssue": {
+                  "typeName": "journalIssue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "customGSD": {
+        "displayName": "Graduate School of Design Metadata",
+        "name": "customGSD",
+        "fields": [
+          {
+            "typeName": "gsdStudentName",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "gsdSiteType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "gsdProgramBrief",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          },
+          {
+            "typeName": "gsdTags",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          }
+        ]
+      },
+      "customARCS": {
+        "displayName": "Alliance for Research on Corporate Sustainability Metadata",
+        "name": "customARCS",
+        "fields": []
+      },
+      "customPSRI": {
+        "displayName": "Political Science Replication Initiative Metadata",
+        "name": "customPSRI",
+        "fields": [
+          {
+            "typeName": "PSRI3",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "PSRI4",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          }
+        ]
+      },
+      "customCHIA": {
+        "displayName": "CHIA Metadata",
+        "name": "customCHIA",
+        "fields": [
+          {
+            "typeName": "sourceCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "datesAdditionalInformationCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "variablesCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "classificationSchemaCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "provenanceCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "rightsAvailabilityCHIA",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          }
+        ]
+      },
+      "customDigaai": {
+        "displayName": "Digaai Metadata",
+        "name": "customDigaai",
+        "fields": [
+          {
+            "typeName": "numero",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "datadePublicao",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "localdePublicao",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "proprietrio",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          }
+        ]
+      },
+      "custom_hbgdki": {
+        "displayName": "HBGDki Custom Metadata",
+        "name": "custom_hbgdki",
+        "fields": [
+          {
+            "typeName": "hbgdkiStudyName",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "hbgdkiStudyRegistry",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "hbgdkiStudyRegistryNumber": {
+                  "typeName": "hbgdkiStudyRegistryNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              },
+              {
+                "hbgdkiStudyRegistryNumber": {
+                  "typeName": "hbgdkiStudyRegistryNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "<script>alert(1)</script>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "hbgdkiIntervention",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "hbgdkiUnitsLowerLimitAge",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "hbgdkiUnitsUpperLimitAge",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "hbgdkiOther",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "<script>alert(1)</script>"
+          },
+          {
+            "typeName": "hbgdkiBiosampleType",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "<script>alert(1)</script>",
+              "<script>alert(1)</script>"
+            ]
+          }
+        ]
+      }
+    },
+    "citation": "kc072321, kc072321, 2021, https://doi.org/10.70122/FK2/KBBBCF, Dataverse Internal, V1"
+  }
+}

@@ -68,7 +68,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 ## 🔗 Useful Links
 
 - 📘 [Preview Docs Site](https://preview.guides.gdcc.io/)
-- 💬 [Zulip Community Chat](https://gdcc.zulipchat.com)
+- 💬 [Zulip Community Chat](https://www.gdcc.io/working-groups/documentation.html)
 - 🧪 [Developer Docs](https://guides.dataverse.org/en/latest/develop/)
 - 🛠️ [Open Doc Issues](https://github.com/IQSS/dataverse/issues?q=is%3Aissue+label%3Adocumentation)
 - 💡 [ask.dataverse.org](https://ask.dataverse.org)

@@ -25,7 +25,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 - **Omer Fahim** — Harvard University (QA)
 - Add yourself here!
 
-> 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://gdcc.zulipchat.com)!
+> 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://dataverse.zulipchat.com/#narrow/channel/446770-docs)!
 
 ---
 
@@ -68,7 +68,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 ## 🔗 Useful Links
 
 - 📘 [Preview Docs Site](https://preview.guides.gdcc.io/)
-- 💬 [Zulip Community Chat](https://www.gdcc.io/working-groups/documentation.html)
+- 💬 [Zulip Community Chat](https://dataverse.zulipchat.com)
 - 🧪 [Developer Docs](https://guides.dataverse.org/en/latest/develop/)
 - 🛠️ [Open Doc Issues](https://github.com/IQSS/dataverse/issues?q=is%3Aissue+label%3Adocumentation)
 - 💡 [ask.dataverse.org](https://ask.dataverse.org)

